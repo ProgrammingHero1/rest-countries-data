@@ -12,12 +12,13 @@
         "capital": "Kabul",
         "altSpellings": [
             "AF",
-            "Af\u0121\u0101nist\u0101n"
+            "Afġānistān"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/afg.svg"
     },
     {
-        "name": "\u00c5land Islands",
+        "name": "Åland Islands",
         "topLevelDomain": [
             ".ax"
         ],
@@ -33,7 +34,8 @@
             "Aland",
             "Ahvenanmaa"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/ala.svg"
     },
     {
         "name": "Albania",
@@ -48,11 +50,12 @@
         "capital": "Tirana",
         "altSpellings": [
             "AL",
-            "Shqip\u00ebri",
-            "Shqip\u00ebria",
+            "Shqipëri",
+            "Shqipëria",
             "Shqipnia"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/alb.svg"
     },
     {
         "name": "Algeria",
@@ -68,9 +71,10 @@
         "altSpellings": [
             "DZ",
             "Dzayer",
-            "Alg\u00e9rie"
+            "Algérie"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/dza.svg"
     },
     {
         "name": "American Samoa",
@@ -85,11 +89,12 @@
         "capital": "Pago Pago",
         "altSpellings": [
             "AS",
-            "Amerika S\u0101moa",
-            "Amelika S\u0101moa",
-            "S\u0101moa Amelika"
+            "Amerika Sāmoa",
+            "Amelika Sāmoa",
+            "Sāmoa Amelika"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/asm.svg"
     },
     {
         "name": "Andorra",
@@ -105,9 +110,10 @@
         "altSpellings": [
             "AD",
             "Principality of Andorra",
-            "Principat d\u0027Andorra"
+            "Principat d'Andorra"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/and.svg"
     },
     {
         "name": "Angola",
@@ -122,10 +128,11 @@
         "capital": "Luanda",
         "altSpellings": [
             "AO",
-            "Rep\u00fablica de Angola",
-            "\u0281\u025bpublika de an\u0027\u0261\u0254la"
+            "República de Angola",
+            "ʁɛpublika de an'ɡɔla"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/ago.svg"
     },
     {
         "name": "Anguilla",
@@ -141,7 +148,8 @@
         "altSpellings": [
             "AI"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/aia.svg"
     },
     {
         "name": "Antarctica",
@@ -155,7 +163,8 @@
         ],
         "capital": "",
         "altSpellings": [],
-        "region": "Polar"
+        "region": "Polar",
+        "flag": "https://restcountries.eu/data/ata.svg"
     },
     {
         "name": "Antigua and Barbuda",
@@ -167,11 +176,12 @@
         "callingCodes": [
             "1"
         ],
-        "capital": "Saint John\u0027s",
+        "capital": "Saint John's",
         "altSpellings": [
             "AG"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/atg.svg"
     },
     {
         "name": "Argentina",
@@ -187,9 +197,10 @@
         "altSpellings": [
             "AR",
             "Argentine Republic",
-            "Rep\u00fablica Argentina"
+            "República Argentina"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/arg.svg"
     },
     {
         "name": "Armenia",
@@ -206,9 +217,10 @@
             "AM",
             "Hayastan",
             "Republic of Armenia",
-            "\u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576\u056b \u0540\u0561\u0576\u0580\u0561\u057a\u0565\u057f\u0578\u0582\u0569\u0575\u0578\u0582\u0576"
+            "Հայաստանի Հանրապետություն"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/arm.svg"
     },
     {
         "name": "Aruba",
@@ -224,7 +236,8 @@
         "altSpellings": [
             "AW"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/abw.svg"
     },
     {
         "name": "Australia",
@@ -240,7 +253,8 @@
         "altSpellings": [
             "AU"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/aus.svg"
     },
     {
         "name": "Austria",
@@ -255,11 +269,12 @@
         "capital": "Vienna",
         "altSpellings": [
             "AT",
-            "\u00d6sterreich",
+            "Österreich",
             "Osterreich",
             "Oesterreich"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/aut.svg"
     },
     {
         "name": "Azerbaijan",
@@ -275,9 +290,10 @@
         "altSpellings": [
             "AZ",
             "Republic of Azerbaijan",
-            "Az\u0259rbaycan Respublikas\u0131"
+            "Azərbaycan Respublikası"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/aze.svg"
     },
     {
         "name": "Bahamas",
@@ -294,7 +310,8 @@
             "BS",
             "Commonwealth of the Bahamas"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/bhs.svg"
     },
     {
         "name": "Bahrain",
@@ -310,9 +327,10 @@
         "altSpellings": [
             "BH",
             "Kingdom of Bahrain",
-            "Mamlakat al-Ba\u1e25rayn"
+            "Mamlakat al-Baḥrayn"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/bhr.svg"
     },
     {
         "name": "Bangladesh",
@@ -327,10 +345,11 @@
         "capital": "Dhaka",
         "altSpellings": [
             "BD",
-            "People\u0027s Republic of Bangladesh",
-            "G\u00f4n\u00f4pr\u00f4jat\u00f4ntri Bangladesh"
+            "People's Republic of Bangladesh",
+            "Gônôprôjatôntri Bangladesh"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/bgd.svg"
     },
     {
         "name": "Barbados",
@@ -346,7 +365,8 @@
         "altSpellings": [
             "BB"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/brb.svg"
     },
     {
         "name": "Belarus",
@@ -361,14 +381,15 @@
         "capital": "Minsk",
         "altSpellings": [
             "BY",
-            "Bielaru\u015b",
+            "Bielaruś",
             "Republic of Belarus",
-            "\u0411\u0435\u043b\u043e\u0440\u0443\u0441\u0441\u0438\u044f",
-            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+            "Белоруссия",
+            "Республика Беларусь",
             "Belorussiya",
-            "Respublika Belarus\u2019"
+            "Respublika Belarus’"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/blr.svg"
     },
     {
         "name": "Belgium",
@@ -383,16 +404,17 @@
         "capital": "Brussels",
         "altSpellings": [
             "BE",
-            "Belgi\u00eb",
+            "België",
             "Belgie",
             "Belgien",
             "Belgique",
             "Kingdom of Belgium",
-            "Koninkrijk Belgi\u00eb",
+            "Koninkrijk België",
             "Royaume de Belgique",
-            "K\u00f6nigreich Belgien"
+            "Königreich Belgien"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/bel.svg"
     },
     {
         "name": "Belize",
@@ -408,7 +430,8 @@
         "altSpellings": [
             "BZ"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/blz.svg"
     },
     {
         "name": "Benin",
@@ -424,9 +447,10 @@
         "altSpellings": [
             "BJ",
             "Republic of Benin",
-            "R\u00e9publique du B\u00e9nin"
+            "République du Bénin"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/ben.svg"
     },
     {
         "name": "Bermuda",
@@ -445,7 +469,8 @@
             "The Bermudas",
             "Somers Isles"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/bmu.svg"
     },
     {
         "name": "Bhutan",
@@ -462,7 +487,8 @@
             "BT",
             "Kingdom of Bhutan"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/btn.svg"
     },
     {
         "name": "Bolivia (Plurinational State of)",
@@ -483,9 +509,10 @@
             "Estado Plurinacional de Bolivia",
             "Buliwya Mamallaqta",
             "Wuliwya Suyu",
-            "Tet\u00e3 Vol\u00edvia"
+            "Tetã Volívia"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/bol.svg"
     },
     {
         "name": "Bonaire, Sint Eustatius and Saba",
@@ -503,7 +530,8 @@
             "BQ",
             "Boneiru"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/bes.svg"
     },
     {
         "name": "Bosnia and Herzegovina",
@@ -519,9 +547,10 @@
         "altSpellings": [
             "BA",
             "Bosnia-Herzegovina",
-            "\u0411\u043e\u0441\u043d\u0430 \u0438 \u0425\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0438\u043d\u0430"
+            "Босна и Херцеговина"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/bih.svg"
     },
     {
         "name": "Botswana",
@@ -539,7 +568,8 @@
             "Republic of Botswana",
             "Lefatshe la Botswana"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/bwa.svg"
     },
     {
         "name": "Bouvet Island",
@@ -554,10 +584,11 @@
         "capital": "",
         "altSpellings": [
             "BV",
-            "Bouvet\u00f8ya",
-            "Bouvet-\u00f8ya"
+            "Bouvetøya",
+            "Bouvet-øya"
         ],
-        "region": ""
+        "region": "",
+        "flag": "https://restcountries.eu/data/bvt.svg"
     },
     {
         "name": "Brazil",
@@ -569,14 +600,15 @@
         "callingCodes": [
             "55"
         ],
-        "capital": "Bras\u00edlia",
+        "capital": "Brasília",
         "altSpellings": [
             "BR",
             "Brasil",
             "Federative Republic of Brazil",
-            "Rep\u00fablica Federativa do Brasil"
+            "República Federativa do Brasil"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/bra.svg"
     },
     {
         "name": "British Indian Ocean Territory",
@@ -592,7 +624,8 @@
         "altSpellings": [
             "IO"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/iot.svg"
     },
     {
         "name": "United States Minor Outlying Islands",
@@ -608,7 +641,8 @@
         "altSpellings": [
             "UM"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/umi.svg"
     },
     {
         "name": "Virgin Islands (British)",
@@ -624,7 +658,8 @@
         "altSpellings": [
             "VG"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/vgb.svg"
     },
     {
         "name": "Virgin Islands (U.S.)",
@@ -643,7 +678,8 @@
             "American Virgin Islands",
             "U.S. Virgin Islands"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/vir.svg"
     },
     {
         "name": "Brunei Darussalam",
@@ -661,7 +697,8 @@
             "Nation of Brunei",
             " the Abode of Peace"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/brn.svg"
     },
     {
         "name": "Bulgaria",
@@ -677,9 +714,10 @@
         "altSpellings": [
             "BG",
             "Republic of Bulgaria",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"
+            "Република България"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/bgr.svg"
     },
     {
         "name": "Burkina Faso",
@@ -695,7 +733,8 @@
         "altSpellings": [
             "BF"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/bfa.svg"
     },
     {
         "name": "Burundi",
@@ -711,10 +750,11 @@
         "altSpellings": [
             "BI",
             "Republic of Burundi",
-            "Republika y\u0027Uburundi",
-            "R\u00e9publique du Burundi"
+            "Republika y'Uburundi",
+            "République du Burundi"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/bdi.svg"
     },
     {
         "name": "Cambodia",
@@ -731,7 +771,8 @@
             "KH",
             "Kingdom of Cambodia"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/khm.svg"
     },
     {
         "name": "Cameroon",
@@ -743,13 +784,14 @@
         "callingCodes": [
             "237"
         ],
-        "capital": "Yaound\u00e9",
+        "capital": "Yaoundé",
         "altSpellings": [
             "CM",
             "Republic of Cameroon",
-            "R\u00e9publique du Cameroun"
+            "République du Cameroun"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/cmr.svg"
     },
     {
         "name": "Canada",
@@ -765,7 +807,8 @@
         "altSpellings": [
             "CA"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/can.svg"
     },
     {
         "name": "Cabo Verde",
@@ -781,9 +824,10 @@
         "altSpellings": [
             "CV",
             "Republic of Cabo Verde",
-            "Rep\u00fablica de Cabo Verde"
+            "República de Cabo Verde"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/cpv.svg"
     },
     {
         "name": "Cayman Islands",
@@ -799,7 +843,8 @@
         "altSpellings": [
             "KY"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/cym.svg"
     },
     {
         "name": "Central African Republic",
@@ -815,9 +860,10 @@
         "altSpellings": [
             "CF",
             "Central African Republic",
-            "R\u00e9publique centrafricaine"
+            "République centrafricaine"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/caf.svg"
     },
     {
         "name": "Chad",
@@ -829,14 +875,15 @@
         "callingCodes": [
             "235"
         ],
-        "capital": "N\u0027Djamena",
+        "capital": "N'Djamena",
         "altSpellings": [
             "TD",
             "Tchad",
             "Republic of Chad",
-            "R\u00e9publique du Tchad"
+            "République du Tchad"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/tcd.svg"
     },
     {
         "name": "Chile",
@@ -852,9 +899,10 @@
         "altSpellings": [
             "CL",
             "Republic of Chile",
-            "Rep\u00fablica de Chile"
+            "República de Chile"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/chl.svg"
     },
     {
         "name": "China",
@@ -869,14 +917,15 @@
         "capital": "Beijing",
         "altSpellings": [
             "CN",
-            "Zh\u014dnggu\u00f3",
+            "Zhōngguó",
             "Zhongguo",
             "Zhonghua",
-            "People\u0027s Republic of China",
-            "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd",
-            "Zh\u014dnghu\u00e1 R\u00e9nm\u00edn G\u00f2ngh\u00e9gu\u00f3"
+            "People's Republic of China",
+            "中华人民共和国",
+            "Zhōnghuá Rénmín Gònghéguó"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/chn.svg"
     },
     {
         "name": "Christmas Island",
@@ -893,7 +942,8 @@
             "CX",
             "Territory of Christmas Island"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/cxr.svg"
     },
     {
         "name": "Cocos (Keeling) Islands",
@@ -911,7 +961,8 @@
             "Territory of the Cocos (Keeling) Islands",
             "Keeling Islands"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/cck.svg"
     },
     {
         "name": "Colombia",
@@ -923,13 +974,14 @@
         "callingCodes": [
             "57"
         ],
-        "capital": "Bogot\u00e1",
+        "capital": "Bogotá",
         "altSpellings": [
             "CO",
             "Republic of Colombia",
-            "Rep\u00fablica de Colombia"
+            "República de Colombia"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/col.svg"
     },
     {
         "name": "Comoros",
@@ -947,9 +999,10 @@
             "Union of the Comoros",
             "Union des Comores",
             "Udzima wa Komori",
-            "al-Itti\u1e25\u0101d al-Qumur\u012b"
+            "al-Ittiḥād al-Qumurī"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/com.svg"
     },
     {
         "name": "Congo",
@@ -966,7 +1019,8 @@
             "CG",
             "Congo-Brazzaville"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/cog.svg"
     },
     {
         "name": "Congo (Democratic Republic of the)",
@@ -985,7 +1039,8 @@
             "Congo-Kinshasa",
             "DRC"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/cod.svg"
     },
     {
         "name": "Cook Islands",
@@ -1000,9 +1055,10 @@
         "capital": "Avarua",
         "altSpellings": [
             "CK",
-            "K\u016bki \u0027\u0100irani"
+            "Kūki 'Āirani"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/cok.svg"
     },
     {
         "name": "Costa Rica",
@@ -1014,13 +1070,14 @@
         "callingCodes": [
             "506"
         ],
-        "capital": "San Jos\u00e9",
+        "capital": "San José",
         "altSpellings": [
             "CR",
             "Republic of Costa Rica",
-            "Rep\u00fablica de Costa Rica"
+            "República de Costa Rica"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/cri.svg"
     },
     {
         "name": "Croatia",
@@ -1039,7 +1096,8 @@
             "Republic of Croatia",
             "Republika Hrvatska"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/hrv.svg"
     },
     {
         "name": "Cuba",
@@ -1055,12 +1113,13 @@
         "altSpellings": [
             "CU",
             "Republic of Cuba",
-            "Rep\u00fablica de Cuba"
+            "República de Cuba"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/cub.svg"
     },
     {
-        "name": "Cura\u00e7ao",
+        "name": "Curaçao",
         "topLevelDomain": [
             ".cw"
         ],
@@ -1073,12 +1132,13 @@
         "altSpellings": [
             "CW",
             "Curacao",
-            "K\u00f2rsou",
-            "Country of Cura\u00e7ao",
-            "Land Cura\u00e7ao",
-            "Pais K\u00f2rsou"
+            "Kòrsou",
+            "Country of Curaçao",
+            "Land Curaçao",
+            "Pais Kòrsou"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/cuw.svg"
     },
     {
         "name": "Cyprus",
@@ -1093,13 +1153,14 @@
         "capital": "Nicosia",
         "altSpellings": [
             "CY",
-            "K\u00fdpros",
-            "K\u0131br\u0131s",
+            "Kýpros",
+            "Kıbrıs",
             "Republic of Cyprus",
-            "\u039a\u03c5\u03c0\u03c1\u03b9\u03b1\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1",
-            "K\u0131br\u0131s Cumhuriyeti"
+            "Κυπριακή Δημοκρατία",
+            "Kıbrıs Cumhuriyeti"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/cyp.svg"
     },
     {
         "name": "Czech Republic",
@@ -1114,10 +1175,11 @@
         "capital": "Prague",
         "altSpellings": [
             "CZ",
-            "\u010cesk\u00e1 republika",
-            "\u010cesko"
+            "Česká republika",
+            "Česko"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/cze.svg"
     },
     {
         "name": "Denmark",
@@ -1136,7 +1198,8 @@
             "Kingdom of Denmark",
             "Kongeriget Danmark"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/dnk.svg"
     },
     {
         "name": "Djibouti",
@@ -1154,11 +1217,12 @@
             "Jabuuti",
             "Gabuuti",
             "Republic of Djibouti",
-            "R\u00e9publique de Djibouti",
+            "République de Djibouti",
             "Gabuutih Ummuuno",
             "Jamhuuriyadda Jabuuti"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/dji.svg"
     },
     {
         "name": "Dominica",
@@ -1174,10 +1238,11 @@
         "altSpellings": [
             "DM",
             "Dominique",
-            "Wai\u2018tu kubuli",
+            "Wai‘tu kubuli",
             "Commonwealth of Dominica"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/dma.svg"
     },
     {
         "name": "Dominican Republic",
@@ -1193,7 +1258,8 @@
         "altSpellings": [
             "DO"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/dom.svg"
     },
     {
         "name": "Ecuador",
@@ -1209,9 +1275,10 @@
         "altSpellings": [
             "EC",
             "Republic of Ecuador",
-            "Rep\u00fablica del Ecuador"
+            "República del Ecuador"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/ecu.svg"
     },
     {
         "name": "Egypt",
@@ -1228,7 +1295,8 @@
             "EG",
             "Arab Republic of Egypt"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/egy.svg"
     },
     {
         "name": "El Salvador",
@@ -1244,9 +1312,10 @@
         "altSpellings": [
             "SV",
             "Republic of El Salvador",
-            "Rep\u00fablica de El Salvador"
+            "República de El Salvador"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/slv.svg"
     },
     {
         "name": "Equatorial Guinea",
@@ -1262,11 +1331,12 @@
         "altSpellings": [
             "GQ",
             "Republic of Equatorial Guinea",
-            "Rep\u00fablica de Guinea Ecuatorial",
-            "R\u00e9publique de Guin\u00e9e \u00e9quatoriale",
-            "Rep\u00fablica da Guin\u00e9 Equatorial"
+            "República de Guinea Ecuatorial",
+            "République de Guinée équatoriale",
+            "República da Guiné Equatorial"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gnq.svg"
     },
     {
         "name": "Eritrea",
@@ -1282,13 +1352,14 @@
         "altSpellings": [
             "ER",
             "State of Eritrea",
-            "\u1203\u1308\u1228 \u12a4\u122d\u1275\u122b",
-            "Dawlat Iritriy\u00e1",
-            "\u02beErtr\u0101",
-            "Iritriy\u0101",
+            "ሃገረ ኤርትራ",
+            "Dawlat Iritriyá",
+            "ʾErtrā",
+            "Iritriyā",
             ""
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/eri.svg"
     },
     {
         "name": "Estonia",
@@ -1307,7 +1378,8 @@
             "Republic of Estonia",
             "Eesti Vabariik"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/est.svg"
     },
     {
         "name": "Ethiopia",
@@ -1322,11 +1394,12 @@
         "capital": "Addis Ababa",
         "altSpellings": [
             "ET",
-            "\u02be\u012aty\u014d\u1e57\u1e57y\u0101",
+            "ʾĪtyōṗṗyā",
             "Federal Democratic Republic of Ethiopia",
-            "\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u134c\u12f4\u122b\u120b\u12ca \u12f2\u121e\u12ad\u122b\u1232\u12eb\u12ca \u122a\u1350\u1265\u120a\u12ad"
+            "የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/eth.svg"
     },
     {
         "name": "Falkland Islands (Malvinas)",
@@ -1343,7 +1416,8 @@
             "FK",
             "Islas Malvinas"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/flk.svg"
     },
     {
         "name": "Faroe Islands",
@@ -1355,13 +1429,14 @@
         "callingCodes": [
             "298"
         ],
-        "capital": "T\u00f3rshavn",
+        "capital": "Tórshavn",
         "altSpellings": [
             "FO",
-            "F\u00f8royar",
-            "F\u00e6r\u00f8erne"
+            "Føroyar",
+            "Færøerne"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/fro.svg"
     },
     {
         "name": "Fiji",
@@ -1379,9 +1454,10 @@
             "Viti",
             "Republic of Fiji",
             "Matanitu ko Viti",
-            "Fij\u012b Ga\u1e47ar\u0101jya"
+            "Fijī Gaṇarājya"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/fji.svg"
     },
     {
         "name": "Finland",
@@ -1401,7 +1477,8 @@
             "Suomen tasavalta",
             "Republiken Finland"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/fin.svg"
     },
     {
         "name": "France",
@@ -1417,9 +1494,10 @@
         "altSpellings": [
             "FR",
             "French Republic",
-            "R\u00e9publique fran\u00e7aise"
+            "République française"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/fra.svg"
     },
     {
         "name": "French Guiana",
@@ -1437,7 +1515,8 @@
             "Guiana",
             "Guyane"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/guf.svg"
     },
     {
         "name": "French Polynesia",
@@ -1449,14 +1528,15 @@
         "callingCodes": [
             "689"
         ],
-        "capital": "Papeet\u0113",
+        "capital": "Papeetē",
         "altSpellings": [
             "PF",
-            "Polyn\u00e9sie fran\u00e7aise",
+            "Polynésie française",
             "French Polynesia",
-            "P\u014dr\u012bnetia Far\u0101ni"
+            "Pōrīnetia Farāni"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/pyf.svg"
     },
     {
         "name": "French Southern Territories",
@@ -1468,11 +1548,12 @@
         "callingCodes": [
             "262"
         ],
-        "capital": "Port-aux-Fran\u00e7ais",
+        "capital": "Port-aux-Français",
         "altSpellings": [
             "TF"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/atf.svg"
     },
     {
         "name": "Gabon",
@@ -1488,9 +1569,10 @@
         "altSpellings": [
             "GA",
             "Gabonese Republic",
-            "R\u00e9publique Gabonaise"
+            "République Gabonaise"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gab.svg"
     },
     {
         "name": "Gambia",
@@ -1507,7 +1589,8 @@
             "GM",
             "Republic of the Gambia"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gmb.svg"
     },
     {
         "name": "Georgia",
@@ -1524,7 +1607,8 @@
             "GE",
             "Sakartvelo"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/geo.svg"
     },
     {
         "name": "Germany",
@@ -1542,7 +1626,8 @@
             "Federal Republic of Germany",
             "Bundesrepublik Deutschland"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/deu.svg"
     },
     {
         "name": "Ghana",
@@ -1558,7 +1643,8 @@
         "altSpellings": [
             "GH"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gha.svg"
     },
     {
         "name": "Gibraltar",
@@ -1574,7 +1660,8 @@
         "altSpellings": [
             "GI"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/gib.svg"
     },
     {
         "name": "Greece",
@@ -1589,11 +1676,12 @@
         "capital": "Athens",
         "altSpellings": [
             "GR",
-            "Ell\u00e1da",
+            "Elláda",
             "Hellenic Republic",
-            "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1"
+            "Ελληνική Δημοκρατία"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/grc.svg"
     },
     {
         "name": "Greenland",
@@ -1608,9 +1696,10 @@
         "capital": "Nuuk",
         "altSpellings": [
             "GL",
-            "Gr\u00f8nland"
+            "Grønland"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/grl.svg"
     },
     {
         "name": "Grenada",
@@ -1622,11 +1711,12 @@
         "callingCodes": [
             "1"
         ],
-        "capital": "St. George\u0027s",
+        "capital": "St. George's",
         "altSpellings": [
             "GD"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/grd.svg"
     },
     {
         "name": "Guadeloupe",
@@ -1643,7 +1733,8 @@
             "GP",
             "Gwadloup"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/glp.svg"
     },
     {
         "name": "Guam",
@@ -1655,12 +1746,13 @@
         "callingCodes": [
             "1"
         ],
-        "capital": "Hag\u00e5t\u00f1a",
+        "capital": "Hagåtña",
         "altSpellings": [
             "GU",
-            "Gu\u00e5h\u00e5n"
+            "Guåhån"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/gum.svg"
     },
     {
         "name": "Guatemala",
@@ -1676,7 +1768,8 @@
         "altSpellings": [
             "GT"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/gtm.svg"
     },
     {
         "name": "Guernsey",
@@ -1694,7 +1787,8 @@
             "Bailiwick of Guernsey",
             "Bailliage de Guernesey"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/ggy.svg"
     },
     {
         "name": "Guinea",
@@ -1710,9 +1804,10 @@
         "altSpellings": [
             "GN",
             "Republic of Guinea",
-            "R\u00e9publique de Guin\u00e9e"
+            "République de Guinée"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gin.svg"
     },
     {
         "name": "Guinea-Bissau",
@@ -1728,9 +1823,10 @@
         "altSpellings": [
             "GW",
             "Republic of Guinea-Bissau",
-            "Rep\u00fablica da Guin\u00e9-Bissau"
+            "República da Guiné-Bissau"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/gnb.svg"
     },
     {
         "name": "Guyana",
@@ -1747,7 +1843,8 @@
             "GY",
             "Co-operative Republic of Guyana"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/guy.svg"
     },
     {
         "name": "Haiti",
@@ -1763,10 +1860,11 @@
         "altSpellings": [
             "HT",
             "Republic of Haiti",
-            "R\u00e9publique d\u0027Ha\u00efti",
+            "République d'Haïti",
             "Repiblik Ayiti"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/hti.svg"
     },
     {
         "name": "Heard Island and McDonald Islands",
@@ -1783,7 +1881,8 @@
         "altSpellings": [
             "HM"
         ],
-        "region": ""
+        "region": "",
+        "flag": "https://restcountries.eu/data/hmd.svg"
     },
     {
         "name": "Holy See",
@@ -1801,7 +1900,8 @@
             "Vatican",
             "The Vatican"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/vat.svg"
     },
     {
         "name": "Honduras",
@@ -1817,9 +1917,10 @@
         "altSpellings": [
             "HN",
             "Republic of Honduras",
-            "Rep\u00fablica de Honduras"
+            "República de Honduras"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/hnd.svg"
     },
     {
         "name": "Hong Kong",
@@ -1834,9 +1935,10 @@
         "capital": "City of Victoria",
         "altSpellings": [
             "HK",
-            "\u9999\u6e2f"
+            "香港"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/hkg.svg"
     },
     {
         "name": "Hungary",
@@ -1852,7 +1954,8 @@
         "altSpellings": [
             "HU"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/hun.svg"
     },
     {
         "name": "Iceland",
@@ -1864,14 +1967,15 @@
         "callingCodes": [
             "354"
         ],
-        "capital": "Reykjav\u00edk",
+        "capital": "Reykjavík",
         "altSpellings": [
             "IS",
             "Island",
             "Republic of Iceland",
-            "L\u00fd\u00f0veldi\u00f0 \u00cdsland"
+            "Lýðveldið Ísland"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/isl.svg"
     },
     {
         "name": "India",
@@ -1886,11 +1990,12 @@
         "capital": "New Delhi",
         "altSpellings": [
             "IN",
-            "Bh\u0101rat",
+            "Bhārat",
             "Republic of India",
             "Bharat Ganrajya"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/ind.svg"
     },
     {
         "name": "Indonesia",
@@ -1908,10 +2013,11 @@
             "Republic of Indonesia",
             "Republik Indonesia"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/idn.svg"
     },
     {
-        "name": "C\u00f4te d\u0027Ivoire",
+        "name": "Côte d'Ivoire",
         "topLevelDomain": [
             ".ci"
         ],
@@ -1924,10 +2030,11 @@
         "altSpellings": [
             "CI",
             "Ivory Coast",
-            "Republic of C\u00f4te d\u0027Ivoire",
-            "R\u00e9publique de C\u00f4te d\u0027Ivoire"
+            "Republic of Côte d'Ivoire",
+            "République de Côte d'Ivoire"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/civ.svg"
     },
     {
         "name": "Iran (Islamic Republic of)",
@@ -1943,9 +2050,10 @@
         "altSpellings": [
             "IR",
             "Islamic Republic of Iran",
-            "Jomhuri-ye Esl\u0101mi-ye Ir\u0101n"
+            "Jomhuri-ye Eslāmi-ye Irān"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/irn.svg"
     },
     {
         "name": "Iraq",
@@ -1961,9 +2069,10 @@
         "altSpellings": [
             "IQ",
             "Republic of Iraq",
-            "Jumh\u016briyyat al-\u2018Ir\u0101q"
+            "Jumhūriyyat al-‘Irāq"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/irq.svg"
     },
     {
         "name": "Ireland",
@@ -1978,11 +2087,12 @@
         "capital": "Dublin",
         "altSpellings": [
             "IE",
-            "\u00c9ire",
+            "Éire",
             "Republic of Ireland",
-            "Poblacht na h\u00c9ireann"
+            "Poblacht na hÉireann"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/irl.svg"
     },
     {
         "name": "Isle of Man",
@@ -2001,7 +2111,8 @@
             "Mann",
             "Mannin"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/imn.svg"
     },
     {
         "name": "Israel",
@@ -2017,9 +2128,10 @@
         "altSpellings": [
             "IL",
             "State of Israel",
-            "Med\u012bnat Yisr\u0101\u0027el"
+            "Medīnat Yisrā'el"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/isr.svg"
     },
     {
         "name": "Italy",
@@ -2037,7 +2149,8 @@
             "Italian Republic",
             "Repubblica italiana"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/ita.svg"
     },
     {
         "name": "Jamaica",
@@ -2053,7 +2166,8 @@
         "altSpellings": [
             "JM"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/jam.svg"
     },
     {
         "name": "Japan",
@@ -2071,7 +2185,8 @@
             "Nippon",
             "Nihon"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/jpn.svg"
     },
     {
         "name": "Jersey",
@@ -2088,9 +2203,10 @@
             "JE",
             "Bailiwick of Jersey",
             "Bailliage de Jersey",
-            "Bailliage d\u00e9 J\u00e8rri"
+            "Bailliage dé Jèrri"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/jey.svg"
     },
     {
         "name": "Jordan",
@@ -2106,15 +2222,16 @@
         "altSpellings": [
             "JO",
             "Hashemite Kingdom of Jordan",
-            "al-Mamlakah al-Urdun\u012byah al-H\u0101shim\u012byah"
+            "al-Mamlakah al-Urdunīyah al-Hāshimīyah"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/jor.svg"
     },
     {
         "name": "Kazakhstan",
         "topLevelDomain": [
             ".kz",
-            ".\u049b\u0430\u0437"
+            ".қаз"
         ],
         "alpha2Code": "KZ",
         "alpha3Code": "KAZ",
@@ -2126,14 +2243,15 @@
         "altSpellings": [
             "KZ",
             "Qazaqstan",
-            "\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Казахстан",
             "Republic of Kazakhstan",
-            "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
-            "Qazaqstan Respubl\u00efkas\u0131",
-            "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d",
+            "Қазақстан Республикасы",
+            "Qazaqstan Respublïkası",
+            "Республика Казахстан",
             "Respublika Kazakhstan"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/kaz.svg"
     },
     {
         "name": "Kenya",
@@ -2151,7 +2269,8 @@
             "Republic of Kenya",
             "Jamhuri ya Kenya"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/ken.svg"
     },
     {
         "name": "Kiribati",
@@ -2169,7 +2288,8 @@
             "Republic of Kiribati",
             "Ribaberiki Kiribati"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/kir.svg"
     },
     {
         "name": "Kuwait",
@@ -2187,7 +2307,8 @@
             "State of Kuwait",
             "Dawlat al-Kuwait"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/kwt.svg"
     },
     {
         "name": "Kyrgyzstan",
@@ -2202,15 +2323,16 @@
         "capital": "Bishkek",
         "altSpellings": [
             "KG",
-            "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+            "Киргизия",
             "Kyrgyz Republic",
-            "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+            "Кыргыз Республикасы",
             "Kyrgyz Respublikasy"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/kgz.svg"
     },
     {
-        "name": "Lao People\u0027s Democratic Republic",
+        "name": "Lao People's Democratic Republic",
         "topLevelDomain": [
             ".la"
         ],
@@ -2224,10 +2346,11 @@
             "LA",
             "Lao",
             "Laos",
-            "Lao People\u0027s Democratic Republic",
+            "Lao People's Democratic Republic",
             "Sathalanalat Paxathipatai Paxaxon Lao"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/lao.svg"
     },
     {
         "name": "Latvia",
@@ -2245,7 +2368,8 @@
             "Republic of Latvia",
             "Latvijas Republika"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/lva.svg"
     },
     {
         "name": "Lebanon",
@@ -2261,9 +2385,10 @@
         "altSpellings": [
             "LB",
             "Lebanese Republic",
-            "Al-Jumh\u016br\u012byah Al-Libn\u0101n\u012byah"
+            "Al-Jumhūrīyah Al-Libnānīyah"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/lbn.svg"
     },
     {
         "name": "Lesotho",
@@ -2281,7 +2406,8 @@
             "Kingdom of Lesotho",
             "Muso oa Lesotho"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/lso.svg"
     },
     {
         "name": "Liberia",
@@ -2298,7 +2424,8 @@
             "LR",
             "Republic of Liberia"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/lbr.svg"
     },
     {
         "name": "Libya",
@@ -2316,7 +2443,8 @@
             "State of Libya",
             "Dawlat Libya"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/lby.svg"
     },
     {
         "name": "Liechtenstein",
@@ -2332,9 +2460,10 @@
         "altSpellings": [
             "LI",
             "Principality of Liechtenstein",
-            "F\u00fcrstentum Liechtenstein"
+            "Fürstentum Liechtenstein"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/lie.svg"
     },
     {
         "name": "Lithuania",
@@ -2352,7 +2481,8 @@
             "Republic of Lithuania",
             "Lietuvos Respublika"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/ltu.svg"
     },
     {
         "name": "Luxembourg",
@@ -2368,11 +2498,12 @@
         "altSpellings": [
             "LU",
             "Grand Duchy of Luxembourg",
-            "Grand-Duch\u00e9 de Luxembourg",
-            "Gro\u00dfherzogtum Luxemburg",
-            "Groussherzogtum L\u00ebtzebuerg"
+            "Grand-Duché de Luxembourg",
+            "Großherzogtum Luxemburg",
+            "Groussherzogtum Lëtzebuerg"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/lux.svg"
     },
     {
         "name": "Macao",
@@ -2387,12 +2518,13 @@
         "capital": "",
         "altSpellings": [
             "MO",
-            "\u6fb3\u95e8",
-            "Macao Special Administrative Region of the People\u0027s Republic of China",
-            "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u570b\u6fb3\u9580\u7279\u5225\u884c\u653f\u5340",
-            "Regi\u00e3o Administrativa Especial de Macau da Rep\u00fablica Popular da China"
+            "澳门",
+            "Macao Special Administrative Region of the People's Republic of China",
+            "中華人民共和國澳門特別行政區",
+            "Região Administrativa Especial de Macau da República Popular da China"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/mac.svg"
     },
     {
         "name": "Macedonia (the former Yugoslav Republic of)",
@@ -2408,9 +2540,10 @@
         "altSpellings": [
             "MK",
             "Republic of Macedonia",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"
+            "Република Македонија"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/mkd.svg"
     },
     {
         "name": "Madagascar",
@@ -2426,10 +2559,11 @@
         "altSpellings": [
             "MG",
             "Republic of Madagascar",
-            "Repoblikan\u0027i Madagasikara",
-            "R\u00e9publique de Madagascar"
+            "Repoblikan'i Madagasikara",
+            "République de Madagascar"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mdg.svg"
     },
     {
         "name": "Malawi",
@@ -2446,7 +2580,8 @@
             "MW",
             "Republic of Malawi"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mwi.svg"
     },
     {
         "name": "Malaysia",
@@ -2462,7 +2597,8 @@
         "altSpellings": [
             "MY"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/mys.svg"
     },
     {
         "name": "Maldives",
@@ -2474,14 +2610,15 @@
         "callingCodes": [
             "960"
         ],
-        "capital": "Mal\u00e9",
+        "capital": "Malé",
         "altSpellings": [
             "MV",
             "Maldive Islands",
             "Republic of the Maldives",
             "Dhivehi Raajjeyge Jumhooriyya"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/mdv.svg"
     },
     {
         "name": "Mali",
@@ -2497,9 +2634,10 @@
         "altSpellings": [
             "ML",
             "Republic of Mali",
-            "R\u00e9publique du Mali"
+            "République du Mali"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mli.svg"
     },
     {
         "name": "Malta",
@@ -2515,9 +2653,10 @@
         "altSpellings": [
             "MT",
             "Republic of Malta",
-            "Repubblika ta\u0027 Malta"
+            "Repubblika ta' Malta"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/mlt.svg"
     },
     {
         "name": "Marshall Islands",
@@ -2533,9 +2672,10 @@
         "altSpellings": [
             "MH",
             "Republic of the Marshall Islands",
-            "Aolep\u0101n Aor\u014dkin M\u0327aje\u013c"
+            "Aolepān Aorōkin M̧ajeļ"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/mhl.svg"
     },
     {
         "name": "Martinique",
@@ -2551,7 +2691,8 @@
         "altSpellings": [
             "MQ"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/mtq.svg"
     },
     {
         "name": "Mauritania",
@@ -2567,9 +2708,10 @@
         "altSpellings": [
             "MR",
             "Islamic Republic of Mauritania",
-            "al-Jumh\u016briyyah al-\u02beIsl\u0101miyyah al-M\u016br\u012bt\u0101niyyah"
+            "al-Jumhūriyyah al-ʾIslāmiyyah al-Mūrītāniyyah"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mrt.svg"
     },
     {
         "name": "Mauritius",
@@ -2585,9 +2727,10 @@
         "altSpellings": [
             "MU",
             "Republic of Mauritius",
-            "R\u00e9publique de Maurice"
+            "République de Maurice"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mus.svg"
     },
     {
         "name": "Mayotte",
@@ -2603,9 +2746,10 @@
         "altSpellings": [
             "YT",
             "Department of Mayotte",
-            "D\u00e9partement de Mayotte"
+            "Département de Mayotte"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/myt.svg"
     },
     {
         "name": "Mexico",
@@ -2624,7 +2768,8 @@
             "United Mexican States",
             "Estados Unidos Mexicanos"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/mex.svg"
     },
     {
         "name": "Micronesia (Federated States of)",
@@ -2641,7 +2786,8 @@
             "FM",
             "Federated States of Micronesia"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/fsm.svg"
     },
     {
         "name": "Moldova (Republic of)",
@@ -2653,13 +2799,14 @@
         "callingCodes": [
             "373"
         ],
-        "capital": "Chi\u0219in\u0103u",
+        "capital": "Chișinău",
         "altSpellings": [
             "MD",
             "Republic of Moldova",
             "Republica Moldova"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/mda.svg"
     },
     {
         "name": "Monaco",
@@ -2675,9 +2822,10 @@
         "altSpellings": [
             "MC",
             "Principality of Monaco",
-            "Principaut\u00e9 de Monaco"
+            "Principauté de Monaco"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/mco.svg"
     },
     {
         "name": "Mongolia",
@@ -2693,7 +2841,8 @@
         "altSpellings": [
             "MN"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/mng.svg"
     },
     {
         "name": "Montenegro",
@@ -2710,7 +2859,8 @@
             "ME",
             "Crna Gora"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/mne.svg"
     },
     {
         "name": "Montserrat",
@@ -2726,7 +2876,8 @@
         "altSpellings": [
             "MS"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/msr.svg"
     },
     {
         "name": "Morocco",
@@ -2742,9 +2893,10 @@
         "altSpellings": [
             "MA",
             "Kingdom of Morocco",
-            "Al-Mamlakah al-Ma\u0121ribiyah"
+            "Al-Mamlakah al-Maġribiyah"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/mar.svg"
     },
     {
         "name": "Mozambique",
@@ -2760,9 +2912,10 @@
         "altSpellings": [
             "MZ",
             "Republic of Mozambique",
-            "Rep\u00fablica de Mo\u00e7ambique"
+            "República de Moçambique"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/moz.svg"
     },
     {
         "name": "Myanmar",
@@ -2779,9 +2932,10 @@
             "MM",
             "Burma",
             "Republic of the Union of Myanmar",
-            "Pyidaunzu Thanm\u0103da My\u0103ma Nainngandaw"
+            "Pyidaunzu Thanmăda Myăma Nainngandaw"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/mmr.svg"
     },
     {
         "name": "Namibia",
@@ -2796,10 +2950,11 @@
         "capital": "Windhoek",
         "altSpellings": [
             "NA",
-            "Namibi\u00eb",
+            "Namibië",
             "Republic of Namibia"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/nam.svg"
     },
     {
         "name": "Nauru",
@@ -2819,7 +2974,8 @@
             "Republic of Nauru",
             "Ripublik Naoero"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/nru.svg"
     },
     {
         "name": "Nepal",
@@ -2835,9 +2991,10 @@
         "altSpellings": [
             "NP",
             "Federal Democratic Republic of Nepal",
-            "Lokt\u0101ntrik Ganatantra Nep\u0101l"
+            "Loktāntrik Ganatantra Nepāl"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/npl.svg"
     },
     {
         "name": "Netherlands",
@@ -2855,7 +3012,8 @@
             "Holland",
             "Nederland"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/nld.svg"
     },
     {
         "name": "New Caledonia",
@@ -2867,11 +3025,12 @@
         "callingCodes": [
             "687"
         ],
-        "capital": "Noum\u00e9a",
+        "capital": "Nouméa",
         "altSpellings": [
             "NC"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/ncl.svg"
     },
     {
         "name": "New Zealand",
@@ -2888,7 +3047,8 @@
             "NZ",
             "Aotearoa"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/nzl.svg"
     },
     {
         "name": "Nicaragua",
@@ -2904,9 +3064,10 @@
         "altSpellings": [
             "NI",
             "Republic of Nicaragua",
-            "Rep\u00fablica de Nicaragua"
+            "República de Nicaragua"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/nic.svg"
     },
     {
         "name": "Niger",
@@ -2923,9 +3084,10 @@
             "NE",
             "Nijar",
             "Republic of Niger",
-            "R\u00e9publique du Niger"
+            "République du Niger"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/ner.svg"
     },
     {
         "name": "Nigeria",
@@ -2941,10 +3103,11 @@
         "altSpellings": [
             "NG",
             "Nijeriya",
-            "Na\u00edj\u00edr\u00ed\u00e0",
+            "Naíjíríà",
             "Federal Republic of Nigeria"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/nga.svg"
     },
     {
         "name": "Niue",
@@ -2960,7 +3123,8 @@
         "altSpellings": [
             "NU"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/niu.svg"
     },
     {
         "name": "Norfolk Island",
@@ -2976,12 +3140,13 @@
         "altSpellings": [
             "NF",
             "Territory of Norfolk Island",
-            "Teratri of Norf\u0027k Ailen"
+            "Teratri of Norf'k Ailen"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/nfk.svg"
     },
     {
-        "name": "Korea (Democratic People\u0027s Republic of)",
+        "name": "Korea (Democratic People's Republic of)",
         "topLevelDomain": [
             ".kp"
         ],
@@ -2993,11 +3158,12 @@
         "capital": "Pyongyang",
         "altSpellings": [
             "KP",
-            "Democratic People\u0027s Republic of Korea",
-            "\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
-            "Chos\u014fn Minjuju\u016di Inmin Konghwaguk"
+            "Democratic People's Republic of Korea",
+            "조선민주주의인민공화국",
+            "Chosŏn Minjujuŭi Inmin Konghwaguk"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/prk.svg"
     },
     {
         "name": "Northern Mariana Islands",
@@ -3013,9 +3179,10 @@
         "altSpellings": [
             "MP",
             "Commonwealth of the Northern Mariana Islands",
-            "Sankattan Siha Na Islas Mari\u00e5nas"
+            "Sankattan Siha Na Islas Mariånas"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/mnp.svg"
     },
     {
         "name": "Norway",
@@ -3036,7 +3203,8 @@
             "Kongeriket Norge",
             "Kongeriket Noreg"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/nor.svg"
     },
     {
         "name": "Oman",
@@ -3052,9 +3220,10 @@
         "altSpellings": [
             "OM",
             "Sultanate of Oman",
-            "Sal\u1e6danat \u02bbUm\u0101n"
+            "Salṭanat ʻUmān"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/omn.svg"
     },
     {
         "name": "Pakistan",
@@ -3069,11 +3238,12 @@
         "capital": "Islamabad",
         "altSpellings": [
             "PK",
-            "P\u0101kist\u0101n",
+            "Pākistān",
             "Islamic Republic of Pakistan",
-            "Isl\u0101m\u012b Jumh\u016briya\u0027eh P\u0101kist\u0101n"
+            "Islāmī Jumhūriya'eh Pākistān"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/pak.svg"
     },
     {
         "name": "Palau",
@@ -3091,7 +3261,8 @@
             "Republic of Palau",
             "Beluu er a Belau"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/plw.svg"
     },
     {
         "name": "Palestine, State of",
@@ -3107,9 +3278,10 @@
         "altSpellings": [
             "PS",
             "State of Palestine",
-            "Dawlat Filas\u1e6din"
+            "Dawlat Filasṭin"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/pse.svg"
     },
     {
         "name": "Panama",
@@ -3125,9 +3297,10 @@
         "altSpellings": [
             "PA",
             "Republic of Panama",
-            "Rep\u00fablica de Panam\u00e1"
+            "República de Panamá"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/pan.svg"
     },
     {
         "name": "Papua New Guinea",
@@ -3145,7 +3318,8 @@
             "Independent State of Papua New Guinea",
             "Independen Stet bilong Papua Niugini"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/png.svg"
     },
     {
         "name": "Paraguay",
@@ -3157,14 +3331,15 @@
         "callingCodes": [
             "595"
         ],
-        "capital": "Asunci\u00f3n",
+        "capital": "Asunción",
         "altSpellings": [
             "PY",
             "Republic of Paraguay",
-            "Rep\u00fablica del Paraguay",
-            "Tet\u00e3 Paragu\u00e1i"
+            "República del Paraguay",
+            "Tetã Paraguái"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/pry.svg"
     },
     {
         "name": "Peru",
@@ -3180,9 +3355,10 @@
         "altSpellings": [
             "PE",
             "Republic of Peru",
-            " Rep\u00fablica del Per\u00fa"
+            " República del Perú"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/per.svg"
     },
     {
         "name": "Philippines",
@@ -3198,9 +3374,10 @@
         "altSpellings": [
             "PH",
             "Republic of the Philippines",
-            "Rep\u00fablika ng Pilipinas"
+            "Repúblika ng Pilipinas"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/phl.svg"
     },
     {
         "name": "Pitcairn",
@@ -3217,7 +3394,8 @@
             "PN",
             "Pitcairn Henderson Ducie and Oeno Islands"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/pcn.svg"
     },
     {
         "name": "Poland",
@@ -3235,7 +3413,8 @@
             "Republic of Poland",
             "Rzeczpospolita Polska"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/pol.svg"
     },
     {
         "name": "Portugal",
@@ -3252,9 +3431,10 @@
             "PT",
             "Portuguesa",
             "Portuguese Republic",
-            "Rep\u00fablica Portuguesa"
+            "República Portuguesa"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/prt.svg"
     },
     {
         "name": "Puerto Rico",
@@ -3272,7 +3452,8 @@
             "Commonwealth of Puerto Rico",
             "Estado Libre Asociado de Puerto Rico"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/pri.svg"
     },
     {
         "name": "Qatar",
@@ -3288,9 +3469,10 @@
         "altSpellings": [
             "QA",
             "State of Qatar",
-            "Dawlat Qa\u1e6dar"
+            "Dawlat Qaṭar"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/qat.svg"
     },
     {
         "name": "Republic of Kosovo",
@@ -3305,12 +3487,13 @@
         "capital": "Pristina",
         "altSpellings": [
             "XK",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0441\u043e\u0432\u043e"
+            "Република Косово"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/kos.svg"
     },
     {
-        "name": "R\u00e9union",
+        "name": "Réunion",
         "topLevelDomain": [
             ".re"
         ],
@@ -3324,7 +3507,8 @@
             "RE",
             "Reunion"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/reu.svg"
     },
     {
         "name": "Romania",
@@ -3341,9 +3525,10 @@
             "RO",
             "Rumania",
             "Roumania",
-            "Rom\u00e2nia"
+            "România"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/rou.svg"
     },
     {
         "name": "Russian Federation",
@@ -3360,10 +3545,11 @@
             "RU",
             "Rossiya",
             "Russian Federation",
-            "\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u0430\u044f \u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u044f",
+            "Российская Федерация",
             "Rossiyskaya Federatsiya"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/rus.svg"
     },
     {
         "name": "Rwanda",
@@ -3379,13 +3565,14 @@
         "altSpellings": [
             "RW",
             "Republic of Rwanda",
-            "Repubulika y\u0027u Rwanda",
-            "R\u00e9publique du Rwanda"
+            "Repubulika y'u Rwanda",
+            "République du Rwanda"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/rwa.svg"
     },
     {
-        "name": "Saint Barth\u00e9lemy",
+        "name": "Saint Barthélemy",
         "topLevelDomain": [
             ".bl"
         ],
@@ -3398,10 +3585,11 @@
         "altSpellings": [
             "BL",
             "St. Barthelemy",
-            "Collectivity of Saint Barth\u00e9lemy",
-            "Collectivit\u00e9 de Saint-Barth\u00e9lemy"
+            "Collectivity of Saint Barthélemy",
+            "Collectivité de Saint-Barthélemy"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/blm.svg"
     },
     {
         "name": "Saint Helena, Ascension and Tristan da Cunha",
@@ -3417,7 +3605,8 @@
         "altSpellings": [
             "SH"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/shn.svg"
     },
     {
         "name": "Saint Kitts and Nevis",
@@ -3434,7 +3623,8 @@
             "KN",
             "Federation of Saint Christopher and Nevis"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/kna.svg"
     },
     {
         "name": "Saint Lucia",
@@ -3450,7 +3640,8 @@
         "altSpellings": [
             "LC"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/lca.svg"
     },
     {
         "name": "Saint Martin (French part)",
@@ -3468,9 +3659,10 @@
         "altSpellings": [
             "MF",
             "Collectivity of Saint Martin",
-            "Collectivit\u00e9 de Saint-Martin"
+            "Collectivité de Saint-Martin"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/maf.svg"
     },
     {
         "name": "Saint Pierre and Miquelon",
@@ -3485,9 +3677,10 @@
         "capital": "Saint-Pierre",
         "altSpellings": [
             "PM",
-            "Collectivit\u00e9 territoriale de Saint-Pierre-et-Miquelon"
+            "Collectivité territoriale de Saint-Pierre-et-Miquelon"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/spm.svg"
     },
     {
         "name": "Saint Vincent and the Grenadines",
@@ -3503,7 +3696,8 @@
         "altSpellings": [
             "VC"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/vct.svg"
     },
     {
         "name": "Samoa",
@@ -3519,9 +3713,10 @@
         "altSpellings": [
             "WS",
             "Independent State of Samoa",
-            "Malo Sa\u02bboloto Tuto\u02bbatasi o S\u0101moa"
+            "Malo Saʻoloto Tutoʻatasi o Sāmoa"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/wsm.svg"
     },
     {
         "name": "San Marino",
@@ -3539,7 +3734,8 @@
             "Republic of San Marino",
             "Repubblica di San Marino"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/smr.svg"
     },
     {
         "name": "Sao Tome and Principe",
@@ -3551,13 +3747,14 @@
         "callingCodes": [
             "239"
         ],
-        "capital": "S\u00e3o Tom\u00e9",
+        "capital": "São Tomé",
         "altSpellings": [
             "ST",
-            "Democratic Republic of S\u00e3o Tom\u00e9 and Pr\u00edncipe",
-            "Rep\u00fablica Democr\u00e1tica de S\u00e3o Tom\u00e9 e Pr\u00edncipe"
+            "Democratic Republic of São Tomé and Príncipe",
+            "República Democrática de São Tomé e Príncipe"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/stp.svg"
     },
     {
         "name": "Saudi Arabia",
@@ -3573,9 +3770,10 @@
         "altSpellings": [
             "SA",
             "Kingdom of Saudi Arabia",
-            "Al-Mamlakah al-\u2018Arabiyyah as-Su\u2018\u016bdiyyah"
+            "Al-Mamlakah al-‘Arabiyyah as-Su‘ūdiyyah"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/sau.svg"
     },
     {
         "name": "Senegal",
@@ -3591,9 +3789,10 @@
         "altSpellings": [
             "SN",
             "Republic of Senegal",
-            "R\u00e9publique du S\u00e9n\u00e9gal"
+            "République du Sénégal"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/sen.svg"
     },
     {
         "name": "Serbia",
@@ -3610,10 +3809,11 @@
             "RS",
             "Srbija",
             "Republic of Serbia",
-            "\u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0440\u0431\u0438\u0458\u0430",
+            "Република Србија",
             "Republika Srbija"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/srb.svg"
     },
     {
         "name": "Seychelles",
@@ -3630,9 +3830,10 @@
             "SC",
             "Republic of Seychelles",
             "Repiblik Sesel",
-            "R\u00e9publique des Seychelles"
+            "République des Seychelles"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/syc.svg"
     },
     {
         "name": "Sierra Leone",
@@ -3649,7 +3850,8 @@
             "SL",
             "Republic of Sierra Leone"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/sle.svg"
     },
     {
         "name": "Singapore",
@@ -3666,9 +3868,10 @@
             "SG",
             "Singapura",
             "Republik Singapura",
-            "\u65b0\u52a0\u5761\u5171\u548c\u56fd"
+            "新加坡共和国"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/sgp.svg"
     },
     {
         "name": "Sint Maarten (Dutch part)",
@@ -3684,7 +3887,8 @@
         "altSpellings": [
             "SX"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/sxm.svg"
     },
     {
         "name": "Slovakia",
@@ -3700,9 +3904,10 @@
         "altSpellings": [
             "SK",
             "Slovak Republic",
-            "Slovensk\u00e1 republika"
+            "Slovenská republika"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/svk.svg"
     },
     {
         "name": "Slovenia",
@@ -3720,7 +3925,8 @@
             "Republic of Slovenia",
             "Republika Slovenija"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/svn.svg"
     },
     {
         "name": "Solomon Islands",
@@ -3736,7 +3942,8 @@
         "altSpellings": [
             "SB"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/slb.svg"
     },
     {
         "name": "Somalia",
@@ -3751,12 +3958,13 @@
         "capital": "Mogadishu",
         "altSpellings": [
             "SO",
-            "a\u1e63-\u1e62\u016bm\u0101l",
+            "aṣ-Ṣūmāl",
             "Federal Republic of Somalia",
             "Jamhuuriyadda Federaalka Soomaaliya",
-            "Jumh\u016briyyat a\u1e63-\u1e62\u016bm\u0101l al-Fider\u0101liyya"
+            "Jumhūriyyat aṣ-Ṣūmāl al-Fiderāliyya"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/som.svg"
     },
     {
         "name": "South Africa",
@@ -3775,7 +3983,8 @@
             "Suid-Afrika",
             "Republic of South Africa"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/zaf.svg"
     },
     {
         "name": "South Georgia and the South Sandwich Islands",
@@ -3792,7 +4001,8 @@
             "GS",
             "South Georgia and the South Sandwich Islands"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/sgs.svg"
     },
     {
         "name": "Korea (Republic of)",
@@ -3809,7 +4019,8 @@
             "KR",
             "Republic of Korea"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/kor.svg"
     },
     {
         "name": "South Sudan",
@@ -3825,7 +4036,8 @@
         "altSpellings": [
             "SS"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/ssd.svg"
     },
     {
         "name": "Spain",
@@ -3841,9 +4053,10 @@
         "altSpellings": [
             "ES",
             "Kingdom of Spain",
-            "Reino de Espa\u00f1a"
+            "Reino de España"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/esp.svg"
     },
     {
         "name": "Sri Lanka",
@@ -3858,10 +4071,11 @@
         "capital": "Colombo",
         "altSpellings": [
             "LK",
-            "ila\u1e45kai",
+            "ilaṅkai",
             "Democratic Socialist Republic of Sri Lanka"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/lka.svg"
     },
     {
         "name": "Sudan",
@@ -3877,9 +4091,10 @@
         "altSpellings": [
             "SD",
             "Republic of the Sudan",
-            "Jumh\u016br\u012byat as-S\u016bd\u0101n"
+            "Jumhūrīyat as-Sūdān"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/sdn.svg"
     },
     {
         "name": "Suriname",
@@ -3899,7 +4114,8 @@
             "Republic of Suriname",
             "Republiek Suriname"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/sur.svg"
     },
     {
         "name": "Svalbard and Jan Mayen",
@@ -3916,7 +4132,8 @@
             "SJ",
             "Svalbard and Jan Mayen Islands"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/sjm.svg"
     },
     {
         "name": "Swaziland",
@@ -3937,7 +4154,8 @@
             "Kingdom of Swaziland",
             "Umbuso waseSwatini"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/swz.svg"
     },
     {
         "name": "Sweden",
@@ -3955,7 +4173,8 @@
             "Kingdom of Sweden",
             "Konungariket Sverige"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/swe.svg"
     },
     {
         "name": "Switzerland",
@@ -3976,7 +4195,8 @@
             "Svizzera",
             "Svizra"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/che.svg"
     },
     {
         "name": "Syrian Arab Republic",
@@ -3992,9 +4212,10 @@
         "altSpellings": [
             "SY",
             "Syrian Arab Republic",
-            "Al-Jumh\u016br\u012byah Al-\u02bbArab\u012byah As-S\u016br\u012byah"
+            "Al-Jumhūrīyah Al-ʻArabīyah As-Sūrīyah"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/syr.svg"
     },
     {
         "name": "Taiwan",
@@ -4009,12 +4230,13 @@
         "capital": "Taipei",
         "altSpellings": [
             "TW",
-            "T\u00e1iw\u0101n",
+            "Táiwān",
             "Republic of China",
-            "\u4e2d\u83ef\u6c11\u570b",
-            "Zh\u014dnghu\u00e1 M\u00edngu\u00f3"
+            "中華民國",
+            "Zhōnghuá Mínguó"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/twn.svg"
     },
     {
         "name": "Tajikistan",
@@ -4029,12 +4251,13 @@
         "capital": "Dushanbe",
         "altSpellings": [
             "TJ",
-            "To\u00e7ikiston",
+            "Toçikiston",
             "Republic of Tajikistan",
-            "\u04b6\u0443\u043c\u04b3\u0443\u0440\u0438\u0438 \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
-            "\u00c7umhuriyi To\u00e7ikiston"
+            "Ҷумҳурии Тоҷикистон",
+            "Çumhuriyi Toçikiston"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/tjk.svg"
     },
     {
         "name": "Tanzania, United Republic of",
@@ -4052,7 +4275,8 @@
             "United Republic of Tanzania",
             "Jamhuri ya Muungano wa Tanzania"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/tza.svg"
     },
     {
         "name": "Thailand",
@@ -4070,10 +4294,11 @@
             "Prathet",
             "Thai",
             "Kingdom of Thailand",
-            "\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23\u0e44\u0e17\u0e22",
+            "ราชอาณาจักรไทย",
             "Ratcha Anachak Thai"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/tha.svg"
     },
     {
         "name": "Timor-Leste",
@@ -4090,10 +4315,11 @@
             "TL",
             "East Timor",
             "Democratic Republic of Timor-Leste",
-            "Rep\u00fablica Democr\u00e1tica de Timor-Leste",
-            "Rep\u00fablika Demokr\u00e1tika Tim\u00f3r-Leste"
+            "República Democrática de Timor-Leste",
+            "Repúblika Demokrátika Timór-Leste"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/tls.svg"
     },
     {
         "name": "Togo",
@@ -4105,14 +4331,15 @@
         "callingCodes": [
             "228"
         ],
-        "capital": "Lom\u00e9",
+        "capital": "Lomé",
         "altSpellings": [
             "TG",
             "Togolese",
             "Togolese Republic",
-            "R\u00e9publique Togolaise"
+            "République Togolaise"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/tgo.svg"
     },
     {
         "name": "Tokelau",
@@ -4128,7 +4355,8 @@
         "altSpellings": [
             "TK"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/tkl.svg"
     },
     {
         "name": "Tonga",
@@ -4140,11 +4368,12 @@
         "callingCodes": [
             "676"
         ],
-        "capital": "Nuku\u0027alofa",
+        "capital": "Nuku'alofa",
         "altSpellings": [
             "TO"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/ton.svg"
     },
     {
         "name": "Trinidad and Tobago",
@@ -4161,7 +4390,8 @@
             "TT",
             "Republic of Trinidad and Tobago"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/tto.svg"
     },
     {
         "name": "Tunisia",
@@ -4177,9 +4407,10 @@
         "altSpellings": [
             "TN",
             "Republic of Tunisia",
-            "al-Jumh\u016briyyah at-T\u016bnisiyyah"
+            "al-Jumhūriyyah at-Tūnisiyyah"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/tun.svg"
     },
     {
         "name": "Turkey",
@@ -4196,9 +4427,10 @@
             "TR",
             "Turkiye",
             "Republic of Turkey",
-            "T\u00fcrkiye Cumhuriyeti"
+            "Türkiye Cumhuriyeti"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/tur.svg"
     },
     {
         "name": "Turkmenistan",
@@ -4214,7 +4446,8 @@
         "altSpellings": [
             "TM"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/tkm.svg"
     },
     {
         "name": "Turks and Caicos Islands",
@@ -4230,7 +4463,8 @@
         "altSpellings": [
             "TC"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/tca.svg"
     },
     {
         "name": "Tuvalu",
@@ -4246,7 +4480,8 @@
         "altSpellings": [
             "TV"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/tuv.svg"
     },
     {
         "name": "Uganda",
@@ -4264,7 +4499,8 @@
             "Republic of Uganda",
             "Jamhuri ya Uganda"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/uga.svg"
     },
     {
         "name": "Ukraine",
@@ -4281,7 +4517,8 @@
             "UA",
             "Ukrayina"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/ukr.svg"
     },
     {
         "name": "United Arab Emirates",
@@ -4298,7 +4535,8 @@
             "AE",
             "UAE"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/are.svg"
     },
     {
         "name": "United Kingdom of Great Britain and Northern Ireland",
@@ -4316,7 +4554,8 @@
             "UK",
             "Great Britain"
         ],
-        "region": "Europe"
+        "region": "Europe",
+        "flag": "https://restcountries.eu/data/gbr.svg"
     },
     {
         "name": "United States of America",
@@ -4334,7 +4573,8 @@
             "USA",
             "United States of America"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/usa.svg"
     },
     {
         "name": "Uruguay",
@@ -4350,9 +4590,10 @@
         "altSpellings": [
             "UY",
             "Oriental Republic of Uruguay",
-            "Rep\u00fablica Oriental del Uruguay"
+            "República Oriental del Uruguay"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/ury.svg"
     },
     {
         "name": "Uzbekistan",
@@ -4368,10 +4609,11 @@
         "altSpellings": [
             "UZ",
             "Republic of Uzbekistan",
-            "O\u2018zbekiston Respublikasi",
-            "\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u0438"
+            "O‘zbekiston Respublikasi",
+            "Ўзбекистон Республикаси"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/uzb.svg"
     },
     {
         "name": "Vanuatu",
@@ -4388,9 +4630,10 @@
             "VU",
             "Republic of Vanuatu",
             "Ripablik blong Vanuatu",
-            "R\u00e9publique de Vanuatu"
+            "République de Vanuatu"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/vut.svg"
     },
     {
         "name": "Venezuela (Bolivarian Republic of)",
@@ -4406,9 +4649,10 @@
         "altSpellings": [
             "VE",
             "Bolivarian Republic of Venezuela",
-            "Rep\u00fablica Bolivariana de Venezuela"
+            "República Bolivariana de Venezuela"
         ],
-        "region": "Americas"
+        "region": "Americas",
+        "flag": "https://restcountries.eu/data/ven.svg"
     },
     {
         "name": "Viet Nam",
@@ -4424,9 +4668,10 @@
         "altSpellings": [
             "VN",
             "Socialist Republic of Vietnam",
-            "C\u1ed9ng h\u00f2a X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a Vi\u1ec7t Nam"
+            "Cộng hòa Xã hội chủ nghĩa Việt Nam"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/vnm.svg"
     },
     {
         "name": "Wallis and Futuna",
@@ -4442,9 +4687,10 @@
         "altSpellings": [
             "WF",
             "Territory of the Wallis and Futuna Islands",
-            "Territoire des \u00eeles Wallis et Futuna"
+            "Territoire des îles Wallis et Futuna"
         ],
-        "region": "Oceania"
+        "region": "Oceania",
+        "flag": "https://restcountries.eu/data/wlf.svg"
     },
     {
         "name": "Western Sahara",
@@ -4456,12 +4702,13 @@
         "callingCodes": [
             "212"
         ],
-        "capital": "El Aai\u00fan",
+        "capital": "El Aaiún",
         "altSpellings": [
             "EH",
-            "Tane\u1e93roft Tutrimt"
+            "Taneẓroft Tutrimt"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/esh.svg"
     },
     {
         "name": "Yemen",
@@ -4473,13 +4720,14 @@
         "callingCodes": [
             "967"
         ],
-        "capital": "Sana\u0027a",
+        "capital": "Sana'a",
         "altSpellings": [
             "YE",
             "Yemeni Republic",
-            "al-Jumh\u016briyyah al-Yamaniyyah"
+            "al-Jumhūriyyah al-Yamaniyyah"
         ],
-        "region": "Asia"
+        "region": "Asia",
+        "flag": "https://restcountries.eu/data/yem.svg"
     },
     {
         "name": "Zambia",
@@ -4496,7 +4744,8 @@
             "ZM",
             "Republic of Zambia"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/zmb.svg"
     },
     {
         "name": "Zimbabwe",
@@ -4513,6 +4762,7 @@
             "ZW",
             "Republic of Zimbabwe"
         ],
-        "region": "Africa"
+        "region": "Africa",
+        "flag": "https://restcountries.eu/data/zwe.svg"
     }
 ]
